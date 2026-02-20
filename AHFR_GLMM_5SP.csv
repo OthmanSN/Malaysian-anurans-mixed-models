@@ -1,0 +1,90 @@
+Species,Family,SVL,TL,Weight,log_adjusted_boxcox_BCI,Zone,Year of sampling,Soil moisture,Soil pH,Temperature,Humidity,Season,Duration_of_sampling,Method
+Pulchrana laterimaculata,Ranidae,26,11,2,4.545384687,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,43,25,19,5.35825409,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,41.5,18,5.5,4.070463007,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42,23,5,3.899381045,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42,24,6,4.135195024,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42.2,24,6,4.117231287,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42.8,24.2,7,4.256286563,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,40,12,5.03,4.097335155,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42.4,24,10.5,4.763449699,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,41.6,19.7,7.62,4.460708453,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,42,20.5,9.3,4.658324182,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Pulchrana laterimaculata,Ranidae,30.38,15.93,12.23,5.966030785,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Pulchrana laterimaculata,Ranidae,20,11,10,6.934300798,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Pulchrana laterimaculata,Ranidae,43,21,15,5.108300402,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Pulchrana laterimaculata,Ranidae,37.46,19.3,13.65,5.444490191,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Pulchrana laterimaculata,Ranidae,23.3,12.54,10.78,6.597736435,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Pulchrana laterimaculata,Ranidae,37.67,20.5,5.5,4.427231686,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Pulchrana laterimaculata,Ranidae,34,18,1,2.095858258,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Pulchrana laterimaculata,Ranidae,42,27,8,4.484179722,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Leptobrachium ingeri,Megophryidae,27,10,1,3.4986599,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Leptobrachium ingeri,Megophryidae,49,20,9,4.062918378,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Leptobrachium ingeri,Megophryidae,38.92,15.13,5.33,4.271620121,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Leptobrachium ingeri,Megophryidae,36.19,14.44,12.81,5.485688489,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Leptobrachium ingeri,Megophryidae,40.06,16.23,15.37,5.358717014,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Leptobrachium ingeri,Megophryidae,32.32,12.65,10.25,5.604641019,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Leptobrachium ingeri,Megophryidae,30,11,4,4.844663245,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Leptobrachium ingeri,Megophryidae,43,17,16,5.177252441,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Leptobrachium ingeri,Megophryidae,32.56,12.81,4.25,4.636230617,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,28,11,1.85,4.185010906,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,35,13,4.35,4.410577881,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,30,12,2,4.021520296,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,40.5,16.5,7,4.455435917,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,28,12,2,4.281027559,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,25,11,2,4.680539743,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,35,13,4,4.309864901,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Leptobrachium ingeri,Megophryidae,44,16,8,4.317887799,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,27,10,1,3.4986599,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,49,20,9,4.062918378,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,38.92,15.13,5.33,4.271620121,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,34,14,4,4.414241057,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,39,14,4,3.898288835,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,29,11,3,4.635154193,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,42,16,8,4.484179722,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,32.5,12.5,3,4.229982315,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,30.2,11.5,3,4.494327492,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,33,12.5,3.46,4.347908828,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,35.6,14,4,4.247652548,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,37.14,16,5,4.364260073,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,34,14.5,3.5,4.25308121,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Ingerophrynus parvus,Bufonidae,36.91,15,8.09,4.935622563,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,27,12,4,5.187669334,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,45,18,16,5.030862857,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Ingerophrynus parvus,Bufonidae,24.25,11.13,11.5,6.54758037,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Ingerophrynus parvus,Bufonidae,21,9,11,6.890658328,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Ingerophrynus parvus,Bufonidae,30,14,12,5.984393238,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Ingerophrynus parvus,Bufonidae,27.79,12.86,12.03,6.208341994,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Ingerophrynus parvus,Bufonidae,20.71,9.4,10.97,6.924017155,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Kalophrynus palmatissimus,Microhylidae,32,13,3,4.286963828,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,42,15,6.5,4.234787563,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,36,14.5,4.63,4.384192042,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,32,14,3.5,4.471398822,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,43,16,6.5,4.147068016,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,35,15,4.3,4.396810962,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,6,5,5.85,8.434141201,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,40,16,9.85,4.886853127,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Kalophrynus palmatissimus,Microhylidae,37,16,6,4.591833532,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Kalophrynus palmatissimus,Microhylidae,39,17,7,4.587474831,Controlled,2017,2.803,6.4,27.775,82.038,Wet,480,Line transects in streams and trails
+Kalophrynus palmatissimus,Microhylidae,11,7,9,8.067460959,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Kalophrynus palmatissimus,Microhylidae,43,18,22,5.509900676,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Kalophrynus palmatissimus,Microhylidae,30.97,13.63,13.88,6.033191492,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Kalophrynus palmatissimus,Microhylidae,37.1,16.02,16.15,5.646064335,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Kalophrynus palmatissimus,Microhylidae,24.84,11.34,11.11,6.449714087,Disturbed,2019,3.086,5.974,28.11,81.99,Dry,612,Random walks along built-up and vegetated area
+Limnonectes ibanorum,Dicroglossidae,68,40,33.73907831,4.476781896,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,65.5,43,31.2142781,4.517290403,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,94,54.5,66.0891791,4.112962592,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,85,54.3,53.62510731,4.228961334,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,86.6,46.2,55.74241599,4.207686461,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,93.6,50.5,65.50653747,4.117938506,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,86.2,43.2,55.20910354,4.212977043,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,67.9,50.1,33.63613096,4.478378849,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,69,47,34.7775257,4.460915854,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,80,43.5,47.28199307,4.297482243,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,70.5,41.2,36.36581891,4.437460695,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,75.6,45.6,42.0416344,4.360584549,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,79.1,41.5,46.18413544,4.310165028,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,78,40.5,44.8604587,4.325819689,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,72.8,40,38.87269664,4.402261302,Protected,2016,2.192,6.018,24.196,78.244,Wet,604,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,73.46,42.9,53.84,4.747562939,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
+Limnonectes ibanorum,Dicroglossidae,68,40,58,5.084096233,Moderately disturbed,2015,N/a,N/a,N/a,N/a,Wet,312,"Line transects in streams, trails and swamps"
