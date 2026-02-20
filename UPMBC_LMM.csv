@@ -1,0 +1,96 @@
+Year,Family,Species,SVL,TL,Habitat_type,Forest_type,Season
+2009,Ceratobatrachidae,Alcalus_baluensis,108.69,23.57,riverbanks,Planted_forest,Wet
+2009,Bufonidae,Duttaphrynus_melanostictus,140.21,20.23,open field,Planted_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,61.6,N/A,open field,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,56.7,N/A,open field,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,61.8,N/A,open field,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,76.4,N/A,open field,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,67.5,N/A,pond bank,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,50.5,N/A,pond bank,Campus_forest,Wet
+2005,Dicroglossidae,Fejervarya_cancrivora,56,N/A,pond bank,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,40,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,41.8,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,40.6,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,53,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,54.6,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Fejervarya_limnocharis,52.6,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Hylarana_chalconota,42.8,N/A,open field,Campus_forest,Wet
+2008,Ranidae,Hylarana_chalconota,48.58,N/A,open field,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,38.2,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,40.4,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,28.8,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,26.28,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,33.9,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,41.4,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,43.45,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,24,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,39.2,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,28.1,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,42.3,N/A,tree,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,36.2,N/A,moist shades,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,39.6,N/A,moist shades,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,35.8,N/A,moist shades,Campus_forest,Wet
+2005,Ranidae,Hylarana_erythraea,38.3,N/A,moist shades,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,80.7,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,78.3,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,74.3,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,64,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,60.8,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,62.2,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,59.7,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_glandulosa,59.3,N/A,riverbanks,Campus_forest,Wet
+2005,Ranidae,Hylarana_nicobariensis,43,N/A,open field,Campus_forest,Wet
+2009,Microhylidae,Kalophrynus_heterochirus,70.56,13.62,shade,Planted_forest,Wet
+2009,Ranidae,Limnonectes_finchi,154.96,30.97,open field,Planted_forest,Wet
+2009,Ranidae,Limnonectes_finchi,131.01,29.64,open field,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,225.96,55.06,riverbanks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,156.99,32.11,riverbanks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,235,51.09,riverbanks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,250,51.65,riverbanks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,140.93,31.37,riverbanks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_ibanorum,132.54,27.36,riverbanks,Planted_forest,Wet
+2005,Dicroglossidae,Limnonectes_ingeri,93.6,N/A,under shade,Campus_forest,Wet
+2005,Dicroglossidae,Limnonectes_ingeri,91.6,N/A,riverbanks,Campus_forest,Wet
+2005,Dicroglossidae,Limnonectes_ingeri,68.7,N/A,riverbanks,Campus_forest,Wet
+2005,Dicroglossidae,Limnonectes_ingeri,93.3,N/A,riverbanks,Campus_forest,Wet
+2005,Dicroglossidae,Limnonectes_ingeri,101.2,N/A,riverbanks,Campus_forest,Wet
+2008,Dicroglossidae,Limnonectes_ingeri,104.9,N/A,riverbanks,Nirwana_Forest_Reserve,Wet
+2009,Ranidae,Limnonectes_kuhlii,111.52,27.66,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,96.88,17.97,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,117.35,18.69,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,114.81,20.41,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,129.45,23.8,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,131.01,27.97,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,137.1,30.24,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,106.26,22.4,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,116.74,26.77,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_kuhlii,143,30.61,under rocks,Planted_forest,Wet
+2009,Ranidae,Limnonectes_paramacrodon ,80.74,19.04,open field,Planted_forest,Wet
+2008,"	Megophryidae",Megophrys_nasuta,92,N/A,open field,Nirwana_Forest_Reserve,Wet
+2008,"	Megophryidae",Megophrys_nasuta,102.55,N/A,open field,Nirwana_Forest_Reserve,Wet
+2009,Bufonidae,Phrynoidis_juxtasper,175,34.41,riverbanks,Planted_forest,Wet
+2009,Rhacophoridae,Polypedates_leucomystax,109.63,23.94,waterbody,Planted_forest,Wet
+2009,Rhacophoridae,Polypedates_leucomystax,165,36.85,open field,Planted_forest,Wet
+2009,Rhacophoridae,Polypedates_leucomystax,157.08,31.8,open field,Planted_forest,Wet
+2009,Rhacophoridae,Polypedates_macrotis,90.57,15.66,waterbody,Planted_forest,Wet
+2009,Rhacophoridae,Polypedates_macrotis,106.94,24.49,waterbody,Planted_forest,Wet
+2005,Rhacophoridae,Polypedates_otilophus,91.1,N/A,open field,Campus_forest,Wet
+2008,Ranidae,Pulchrana_baramica,62,N/A,riverbanks,Nirwana_Forest_Reserve,Wet
+2009,Ranidae,Pulchrana_picturata,143.28,28.27,open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_picturata,103.77,22.58,open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,128.96,29.07,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,123.95,23.23,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,107.15,19.98,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,102.97,19.36,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,108.42,23.35,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,138.17,29.35,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,102.46,20.56,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,97.86,21.56,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,107.48,22.94,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,105.68,20.43,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,109.42,20,riverbanks and open field,Planted_forest,Wet
+2009,Ranidae,Pulchrana_signata,149.48,28.35,riverbanks and open field,Planted_forest,Wet
+2008,Ranidae,Rana_leporina,82,N/A,riverbanks,Nirwana_Forest_Reserve,Wet
+2008,Ranidae,Rana_leporina,56.7,N/A,riverbanks,Nirwana_Forest_Reserve,Wet
+2008,Ranidae,Rana_leporina,95.75,N/A,riverbanks,Nirwana_Forest_Reserve,Wet
+2005,Rhacophoridae,Rhacoporus_pardalis,53,N/A,open field,Campus_forest,Wet
